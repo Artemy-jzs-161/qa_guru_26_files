@@ -1,4 +1,4 @@
-package model;
+package lecture.model;
 
 import com.google.gson.annotations.SerializedName;
 
