@@ -1,0 +1,21 @@
+{
+  "brand": "Toyota",
+  "model": "Camry",
+  "year": 2022,
+  "color": "silver",
+  "mileage": 15000,
+
+  "engine": {
+    "type": "V6",
+    "displacement": 3.5,
+    "horsepower": 301
+  },
+
+  "features": ["leather seats", "sunroof", "backup camera"],
+
+  "owner": {
+    "name": "John Doe",
+    "age": 35,
+    "city": "New York"
+  }
+}
